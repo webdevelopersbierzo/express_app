@@ -5,7 +5,7 @@ Installation of Express with livereload configured, if you want to have express 
 
 1- Clone the repository
 
-2- you enter the directory and execute
+2- you enter the directory express_app/myApp and execute
 
     npm install
 
